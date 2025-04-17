@@ -3,5 +3,5 @@ This repo has cloudfomation stack to create HA, scalable, secure, durable AWS RD
 
 #Link to Medium Blog:
 
-LINK:
+LINK: https://medium.com/@prathamesh.satyarthi/one-template-to-rule-them-all-296cf9987089
 This blog has detailed explaination to deploy and maintain this stack.
